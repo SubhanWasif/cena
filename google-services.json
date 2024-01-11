@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "307268788648",
+    "firebase_url": "https://cena-69d2d-default-rtdb.firebaseio.com",
+    "project_id": "cena-69d2d",
+    "storage_bucket": "cena-69d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307268788648:android:615678a9b810c4426ffd9d",
+        "android_client_info": {
+          "package_name": "com.company.cena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuDqUuph3BkzoGu3RalaIdQk6Ql9q2fkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
